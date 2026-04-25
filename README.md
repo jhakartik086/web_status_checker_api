@@ -37,7 +37,7 @@ The script sends an HTTP GET request to a website:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/jhakartik086/website-status-checker.git
+git clone https://github.com/jhakartik086/web_status_checker_api.git
 2. Open project folder
 cd website-status-checker
 3. Install required library
